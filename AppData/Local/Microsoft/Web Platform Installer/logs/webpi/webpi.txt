@@ -1,0 +1,587 @@
+DownloadManager Information: 0 : Loading product xml from: https://go.microsoft.com/?linkid=9842185
+DownloadManager Information: 0 : https://go.microsoft.com/?linkid=9842185 responded with 302
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 302 Moved Temporarily
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: -1
+Location: https://www.microsoft.com/web/webpi/5.0/webproductlist.xml
+Server: Microsoft-IIS/8.0
+X-AspNetMvc-Version: 4.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Content-Length: 175
+Date: Sun, 03 Apr 2016 04:22:18 GMT
+Connection: keep-alive
+
+
+DownloadManager Information: 0 : Content-Encoding header: 'gzip'
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '906732'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '7120556'
+DownloadManager Warning: 0 : Could not resolve keyword ID 5nine
+DownloadManager Warning: 0 : Could not resolve keyword ID Security
+DownloadManager Warning: 0 : Could not resolve keyword ID 5nine
+DownloadManager Warning: 0 : Could not resolve keyword ID Security
+DownloadManager Warning: 0 : Could not resolve keyword ID Backup
+DownloadManager Warning: 0 : Could not resolve keyword ID Portal
+DownloadManager Warning: 0 : Could not resolve keyword ID Backup
+DownloadManager Warning: 0 : Could not resolve keyword ID Portal
+DownloadManager Warning: 0 : Could not resolve keyword ID Backup
+DownloadManager Warning: 0 : Could not resolve keyword ID Resource Provider
+DownloadManager Warning: 0 : Could not resolve keyword ID VMWare
+DownloadManager Warning: 0 : Could not resolve keyword ID Hybrid Cloud
+DownloadManager Warning: 0 : Could not resolve keyword ID Windows Azure Pack
+DownloadManager Warning: 0 : Could not resolve keyword ID Cloud Assert
+DownloadManager Warning: 0 : Could not resolve keyword ID VMWare
+DownloadManager Warning: 0 : Could not resolve keyword ID Hybrid Cloud
+DownloadManager Warning: 0 : Could not resolve keyword ID Windows Azure Pack
+DownloadManager Warning: 0 : Could not resolve keyword ID Cloud Assert
+DownloadManager Warning: 0 : Could not resolve keyword ID VMWare
+DownloadManager Warning: 0 : Could not resolve keyword ID Hybrid Cloud
+DownloadManager Warning: 0 : Could not resolve keyword ID Windows Azure Pack
+DownloadManager Warning: 0 : Could not resolve keyword ID Cloud Assert
+DownloadManager Warning: 0 : Could not resolve keyword ID Usage
+DownloadManager Warning: 0 : Could not resolve keyword ID Billing
+DownloadManager Warning: 0 : Could not resolve keyword ID Hybrid Cloud
+DownloadManager Warning: 0 : Could not resolve keyword ID Windows Azure Pack
+DownloadManager Warning: 0 : Could not resolve keyword ID Cloud Assert
+DownloadManager Warning: 0 : Could not resolve keyword ID Usage
+DownloadManager Warning: 0 : Could not resolve keyword ID Billing
+DownloadManager Warning: 0 : Could not resolve keyword ID Hybrid Cloud
+DownloadManager Warning: 0 : Could not resolve keyword ID Windows Azure Pack
+DownloadManager Warning: 0 : Could not resolve keyword ID Cloud Assert
+DownloadManager Warning: 0 : Could not resolve keyword ID Usage
+DownloadManager Warning: 0 : Could not resolve keyword ID Billing
+DownloadManager Warning: 0 : Could not resolve keyword ID Hybrid Cloud
+DownloadManager Warning: 0 : Could not resolve keyword ID Windows Azure Pack
+DownloadManager Warning: 0 : Could not resolve keyword ID Cloud Assert
+DownloadManager Warning: 0 : Could not resolve keyword ID Usage
+DownloadManager Warning: 0 : Could not resolve keyword ID Billing
+DownloadManager Warning: 0 : Could not resolve keyword ID Hybrid Cloud
+DownloadManager Warning: 0 : Could not resolve keyword ID Windows Azure Pack
+DownloadManager Warning: 0 : Could not resolve keyword ID Cloud Assert
+DownloadManager Warning: 0 : Could not resolve keyword ID Cloud Cruiser
+DownloadManager Warning: 0 : Could not resolve keyword ID Billing
+DownloadManager Warning: 0 : Could not resolve keyword ID Showback
+DownloadManager Warning: 0 : Could not resolve keyword ID Cloud Cruiser
+DownloadManager Warning: 0 : Could not resolve keyword ID Billing
+DownloadManager Warning: 0 : Could not resolve keyword ID Showback
+DownloadManager Warning: 0 : Could not resolve keyword ID Terawe
+DownloadManager Information: 0 : Filtering by current OS
+DownloadManager Information: 0 : Loading product xml from: https://www.microsoft.com/web/webpi/5.0/webapplicationlist.xml
+DownloadManager Information: 0 : Content-Encoding header: 'gzip'
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '117859'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '463894'
+DownloadManager Information: 0 : Filtering by current OS
+DownloadManager Information: 0 : Sucessfully loaded the feed 'https://www.microsoft.com/web/webpi/5.0/webapplicationlist.xml' after preprocessing, location on disk: 'C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\preprocessor\-97141593.xml'
+DownloadManager Information: 0 : Loading product xml from: https://www.microsoft.com/web/webpi/5.0/mediaproductlist.xml
+DownloadManager Information: 0 : Content-Encoding header: 'gzip'
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '11468'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '64021'
+DownloadManager Information: 0 : Filtering by current OS
+DownloadManager Information: 0 : Sucessfully loaded the feed 'https://www.microsoft.com/web/webpi/5.0/mediaproductlist.xml' after preprocessing, location on disk: 'C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\preprocessor\-230948881.xml'
+DownloadManager Information: 0 : Loading product xml from: https://www.microsoft.com/web/webpi/5.0/ToolsProductList.xml
+DownloadManager Information: 0 : Content-Encoding header: 'gzip'
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '11519'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '66362'
+DownloadManager Information: 0 : Filtering by current OS
+DownloadManager Information: 0 : Sucessfully loaded the feed 'https://www.microsoft.com/web/webpi/5.0/ToolsProductList.xml' after preprocessing, location on disk: 'C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\preprocessor\-1135381691.xml'
+DownloadManager Information: 0 : Loading product xml from: https://www.microsoft.com/web/webpi/5.0/enterpriseproductlist.xml
+DownloadManager Information: 0 : Content-Encoding header: 'gzip'
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '7517'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '40596'
+DownloadManager Information: 0 : Filtering by current OS
+DownloadManager Information: 0 : Sucessfully loaded the feed 'https://www.microsoft.com/web/webpi/5.0/enterpriseproductlist.xml' after preprocessing, location on disk: 'C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\preprocessor\-1877981721.xml'
+DownloadManager Information: 0 : Sucessfully loaded the feed 'https://go.microsoft.com/?linkid=9842185' after preprocessing, location on disk: 'C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\preprocessor\1343597488.xml'
+DownloadManager Information: 0 : Getting ratings file from http://go.microsoft.com/?linkid=9752395
+DownloadManager Information: 0 : http://go.microsoft.com/?linkid=9752395 responded with 302
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 302 Moved Temporarily
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Expires: -1
+Location: http://www.microsoft.com/web/handlers/WebPI.ashx?command=getatomfeedwithavgratingquery
+Server: Microsoft-IIS/8.0
+X-AspNetMvc-Version: 4.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Content-Length: 203
+Date: Sun, 03 Apr 2016 04:22:22 GMT
+Connection: keep-alive
+
+
+DownloadManager Information: 0 : Content-Encoding header: 'gzip'
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '24359'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '81010'
+DownloadManager Warning: 0 : Error getting last-modified header, error code: 12150
+DownloadManager Warning: 0 : HttpQueryInfoWithRetry for HTTP_QUERY_LAST_MODIFIED failed.
+DownloadManager Information: 0 : Ratings file loaded successfully
+DownloadManager Error: 0 : WebClient download error. Uri: http://www.microsoft.com/web/handlers/webpi.ashx?command=getimage&guid=2a955bf4-71dd-455f-9cc4-dbbc9e5dcbd0, Error: System.Net.WebException: The remote server returned an error: (500) Internal Server Error.
+   at System.Net.WebClient.DownloadFile(Uri address, String fileName)
+   at Microsoft.Web.PlatformInstaller.UI.DownloadServiceImplementation.DownloadFile(Uri uri, String filePath)
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '7336'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '7336'
+DownloadManager Warning: 0 : Error getting last-modified header, error code: 12150
+DownloadManager Warning: 0 : HttpQueryInfoWithRetry for HTTP_QUERY_LAST_MODIFIED failed.
+DownloadManager Information: 0 : Adding product WordPress (WordPress) to cart
+DownloadManager Information: 0 : Dependent product FastCGIUpdate does not apply for current OS / configuration. Not adding
+DownloadManager Information: 0 : Dependent product FastCGIBackport does not apply for current OS / configuration. Not adding
+DownloadManager Information: 0 : Dependent product FastCGIUpdate does not apply for current OS / configuration. Not adding
+DownloadManager Information: 0 : Dependent product FastCGIBackport does not apply for current OS / configuration. Not adding
+DownloadManager Information: 0 : Adding product MySQL Windows 5.1 (MySQL) to cart
+DownloadManager Information: 0 : Dependent product FastCGIUpdate does not apply for current OS / configuration. Not adding
+DownloadManager Information: 0 : Dependent product FastCGIBackport does not apply for current OS / configuration. Not adding
+DownloadManager Information: 0 : Dependent product FastCGIUpdate does not apply for current OS / configuration. Not adding
+DownloadManager Information: 0 : Dependent product FastCGIBackport does not apply for current OS / configuration. Not adding
+DownloadManager Information: 0 : Adding product 'WordPress'
+DownloadManager Information: 0 : Adding dependency product 'WinCache55
+DownloadManager Information: 0 : Adding dependency product 'PHP55
+DownloadManager Information: 0 : Adding dependency product 'UrlRewrite2
+DownloadManager Information: 0 : Adding dependency product 'StaticContent
+DownloadManager Information: 0 : Adding dependency product 'DefaultDocument
+DownloadManager Information: 0 : Adding dependency product 'DirectoryBrowse
+DownloadManager Information: 0 : Adding dependency product 'HTTPErrors
+DownloadManager Information: 0 : Adding dependency product 'HTTPLogging
+DownloadManager Information: 0 : Adding dependency product 'LoggingTools
+DownloadManager Information: 0 : Adding dependency product 'RequestMonitor
+DownloadManager Information: 0 : Adding dependency product 'RequestFiltering
+DownloadManager Information: 0 : Adding dependency product 'StaticContentCompression
+DownloadManager Information: 0 : Adding dependency product 'CGI
+DownloadManager Information: 0 : Adding dependency product 'WASProcessModel
+DownloadManager Information: 0 : Adding dependency product 'IISManagementConsole
+DownloadManager Information: 0 : Adding dependency product 'WASConfigurationAPI
+DownloadManager Information: 0 : Adding dependency product 'VC12Redist
+DownloadManager Information: 0 : Adding dependency product 'runphp
+DownloadManager Information: 0 : Adding dependency product 'WDeployNoSMO
+DownloadManager Information: 0 : Adding dependency product 'WDeployNoSMO_3_5
+DownloadManager Information: 0 : Adding dependency product 'WDeploy_Only_3_5
+DownloadManager Information: 0 : Adding dependency product 'MySQLConnector
+DownloadManager Information: 0 : Adding product 'MySQL'
+DownloadManager Information: 0 : Setting current install to 1
+DownloadManager Information: 0 : Starting install sequence
+DownloadManager Information: 0 : Starting IIS 7.5 component install
+DownloadManager Information: 0 : Creating unattended setup file: C:\Users\Administrator\AppData\Local\Temp\2\tmp9FEB.tmp
+DownloadManager Information: 0 : Starting IIS unattended setup: C:\Windows\sysnative\pkgmgr.exe C:\Users\Administrator\AppData\Local\Temp\2\tmp9FEB.tmp
+DownloadManager Information: 0 : Downloading file 'https://sourceforge.net/projects/phpinstallermsi/files/zip/runphp.zip/download' to: C:\Users\Administrator\AppData\Local\Temp\2\tmpA03A.tmp
+DownloadManager Information: 0 : https://sourceforge.net/projects/phpinstallermsi/files/zip/runphp.zip/download responded with 302
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 302 Found
+Server: nginx
+Date: Sun, 03 Apr 2016 04:27:47 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+Pragma: no-cache
+Cache-Control: no-cache
+X-UA-Compatible: IE=edge,chrome=1
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: VISITOR=57009bc30b47380d2b24a075; expires="Wed, 01-Apr-2026 04:27:47 GMT"; httponly; Max-Age=315360000; Path=/
+Set-Cookie: session_referrer=wpi://2.1.0.0/Microsoft Windows NT 6.1.7601 Service Pack 1; expires="Sun, 03-Apr-2016 05:27:47 GMT"; Max-Age=3600; Path=/
+Set-cookie: sourceforge=f0197733aa6b5b48a27ec90b7ae6b6d714b1932dgAJ9cQEoVQxsYW5kaW5nX3BhZ2VxAlU3L3Byb2plY3RzL3BocGluc3RhbGxlcm1zaS9maWxlcy96aXAvcnVucGhwLnppcC9kb3dubG9hZHEDVQVwcmVmc3EEfXEFVQNrZXlxBlUYNTcwMDliYzMwYjQ3MzgwZDJiMjRhMDc1cQdVA19pZHEIVSBjOGU4NTdmNzE4YmQ0ZTU3YTllZDg2ZWVhODA0NjEwYXEJVQ5fYWNjZXNzZWRfdGltZXEKR0HVwCbwwX/cVQ5fY3JlYXRpb25fdGltZXELR0HVwCbwwX/YdS4=; expires=Tue, 19-Jan-2038 03:14:07 GMT; httponly; Path=/; secure
+Location: http://downloads.sourceforge.net/project/phpinstallermsi/zip/runphp.zip?r=wpi%3A%2F%2F2.1.0.0%2FMicrosoft+Windows+NT+6.1.7601+Service+Pack+1&ts=1459657667&use_mirror=tenet
+Content-Length: 251
+X-Content-Type-Options: nosniff
+
+
+DownloadManager Information: 0 : http://downloads.sourceforge.net/project/phpinstallermsi/zip/runphp.zip?r=wpi://2.1.0.0/Microsoft+Windows+NT+6.1.7601+Service+Pack+1&ts=1459657667&use_mirror=tenet responded with 302
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 302 Found
+Server: nginx
+Date: Sun, 03 Apr 2016 04:27:47 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+content-disposition: attachment; filename="runphp.zip"
+Set-Cookie: sf_mirror_attempt="phpinstallermsi:tenet:zip/runphp.zip"; expires=120; Path=/
+Location: http://tenet.dl.sourceforge.net/project/phpinstallermsi/zip/runphp.zip
+Content-Length: 150
+
+
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '621'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '621'
+DownloadManager Information: 0 : Moving downloaded file 'C:\Users\Administrator\AppData\Local\Temp\2\tmpA03A.tmp' to: C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\installers\runphp\8F0872DE6225AD3B65D509E37B5AE897B4847F8B\runphp.zip
+DownloadManager Information: 0 : Downloading file 'http://go.microsoft.com/fwlink/?LinkID=309497&clcid=0x409' to: C:\Users\Administrator\AppData\Local\Temp\2\tmpAC8C.tmp
+DownloadManager Information: 0 : http://go.microsoft.com/fwlink/?LinkID=309497&clcid=0x409 responded with 302
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 302 Moved Temporarily
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Location: http://download.microsoft.com/download/D/4/4/D446D154-2232-49A1-9D64-F5A9429913A4/WebDeploy_amd64_en-US.msi
+Server: Microsoft-IIS/8.5
+X-AspNetMvc-Version: 5.2
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Content-Length: 0
+Date: Sun, 03 Apr 2016 04:27:49 GMT
+Connection: keep-alive
+
+
+DownloadManager Information: 0 : Content-disposition header: attachment
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '6139904'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '6139904'
+DownloadManager Information: 0 : Moving downloaded file 'C:\Users\Administrator\AppData\Local\Temp\2\tmpAC8C.tmp' to: C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\installers\WDeploy_Only_3_5\000D8544B5A88B2D78E46BF939420F5CEC6094C1\WebDeploy_amd64_en-US.msi
+DownloadManager Information: 0 : Downloading file 'http://download.microsoft.com/download/C/9/E/C9E8180D-4E51-40A6-A9BF-776990D8BCA9/rewrite_amd64.msi' to: C:\Users\Administrator\AppData\Local\Temp\2\tmpB238.tmp
+DownloadManager Information: 0 : Content-disposition header: attachment
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '6275072'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '6275072'
+DownloadManager Information: 0 : Moving downloaded file 'C:\Users\Administrator\AppData\Local\Temp\2\tmpB238.tmp' to: C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\installers\UrlRewrite2\6A98B994ADCC2E8D21507BF2B8BAFFB402C17395\rewrite_amd64.msi
+DownloadManager Information: 0 : Downloading file 'http://dev.mysql.com/get/Downloads/Connector-Net/mysql-connector-net-6.9.7.msi' to: C:\Users\Administrator\AppData\Local\Temp\2\tmpB41D.tmp
+DownloadManager Information: 0 : http://dev.mysql.com/get/Downloads/Connector-Net/mysql-connector-net-6.9.7.msi responded with 302
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 302 Found
+Date: Sun, 03 Apr 2016 04:27:51 GMT
+Server: Apache/2.2
+Set-Cookie: MySQL_S=kq1kevlbpurhl8g8u08kvnjvgmm5p4tm; path=/; domain=mysql.com; HttpOnly
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: http://cdn.mysql.com//Downloads/Connector-Net/mysql-connector-net-6.9.7.msi
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 20
+Content-Type: text/html; charset=UTF-8
+
+
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '12177408'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '12177408'
+DownloadManager Information: 0 : Moving downloaded file 'C:\Users\Administrator\AppData\Local\Temp\2\tmpB41D.tmp' to: C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\installers\MySQLConnector\E60C34146B08E8044B531E92EBC7431F75D6E1CF\mysql-connector-net-6.9.7.msi
+DownloadManager Information: 0 : Downloading file 'http://download.microsoft.com/download/1/6/B/16B06F60-3B20-4FF2-B699-5E9B7962F9AE/VSU3/vcredist_x86.exe' to: C:\Users\Administrator\AppData\Local\Temp\2\tmpB890.tmp
+DownloadManager Information: 0 : Content-disposition header: attachment
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '6552288'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '6552288'
+DownloadManager Information: 0 : Moving downloaded file 'C:\Users\Administrator\AppData\Local\Temp\2\tmpB890.tmp' to: C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\installers\VC12Redist\7D6F654C16F9CE534BB2C4B1669D7DC039C433C9\vcredist_x86.exe
+DownloadManager Information: 0 : Downloading file 'http://sourceforge.net/projects/phpinstallermsi/files/zip/php-5.5.30-nts-Win32-VC11-x86.zip/download' to: C:\Users\Administrator\AppData\Local\Temp\2\tmpBB21.tmp
+DownloadManager Information: 0 : http://sourceforge.net/projects/phpinstallermsi/files/zip/php-5.5.30-nts-Win32-VC11-x86.zip/download responded with 301
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Sun, 03 Apr 2016 04:27:53 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+Location: https://sourceforge.net/projects/phpinstallermsi/files/zip/php-5.5.30-nts-Win32-VC11-x86.zip/download
+Content-Length: 198
+X-Content-Type-Options: nosniff
+
+
+DownloadManager Information: 0 : https://sourceforge.net/projects/phpinstallermsi/files/zip/php-5.5.30-nts-Win32-VC11-x86.zip/download responded with 302
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 302 Found
+Server: nginx
+Date: Sun, 03 Apr 2016 04:27:53 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+Pragma: no-cache
+Cache-Control: no-cache
+X-UA-Compatible: IE=edge,chrome=1
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: VISITOR=57009bc30b47380d2b24a075; expires="Wed, 01-Apr-2026 04:27:53 GMT"; httponly; Max-Age=315360000; Path=/
+Set-cookie: sourceforge=517a08b597724d950317354a0a2792a48177dcf6gAJ9cQEoVQxsYW5kaW5nX3BhZ2VxAlU3L3Byb2plY3RzL3BocGluc3RhbGxlcm1zaS9maWxlcy96aXAvcnVucGhwLnppcC9kb3dubG9hZHEDVQNfaWRxBFUgYzhlODU3ZjcxOGJkNGU1N2E5ZWQ4NmVlYTgwNDYxMGFxBVUDa2V5cQZVGDU3MDA5YmMzMGI0NzM4MGQyYjI0YTA3NXEHVQhfZXhwaXJlc3EIY2RhdGV0aW1lCmRhdGV0aW1lCnEJVQoH9gETAw4HAAAAhVJxClUFcHJlZnNxC31xDFUOX2FjY2Vzc2VkX3RpbWVxDUdB1cAm8mjtPlUOX2NyZWF0aW9uX3RpbWVxDkdB1cAm8MF/2HUu; expires=Tue, 19-Jan-2038 03:14:07 GMT; httponly; Path=/; secure
+Location: http://downloads.sourceforge.net/project/phpinstallermsi/zip/php-5.5.30-nts-Win32-VC11-x86.zip?r=wpi%3A%2F%2F2.1.0.0%2FMicrosoft+Windows+NT+6.1.7601+Service+Pack+1&ts=1459657673&use_mirror=heanet
+Content-Length: 275
+X-Content-Type-Options: nosniff
+
+
+DownloadManager Information: 0 : http://downloads.sourceforge.net/project/phpinstallermsi/zip/php-5.5.30-nts-Win32-VC11-x86.zip?r=wpi://2.1.0.0/Microsoft+Windows+NT+6.1.7601+Service+Pack+1&ts=1459657673&use_mirror=heanet responded with 302
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 302 Found
+Server: nginx
+Date: Sun, 03 Apr 2016 04:27:53 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+content-disposition: attachment; filename="php-5.5.30-nts-Win32-VC11-x86.zip"
+Set-Cookie: sf_mirror_attempt="phpinstallermsi:heanet:zip/php-5.5.30-nts-Win32-VC11-x86.zip"; expires=120; Path=/
+Location: http://heanet.dl.sourceforge.net/project/phpinstallermsi/zip/php-5.5.30-nts-Win32-VC11-x86.zip
+Content-Length: 174
+
+
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '19682397'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '19682397'
+DownloadManager Information: 0 : Moving downloaded file 'C:\Users\Administrator\AppData\Local\Temp\2\tmpBB21.tmp' to: C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\installers\PHP55\7BE492B612B64710FE59F06C39D1454CC4EC504E\php-5.5.30-nts-Win32-VC11-x86.zip
+DownloadManager Information: 0 : Downloading file 'http://sourceforge.net/projects/wincache/files/wincache-1.3.7/wincachewpi-1.3.7.10-5.5-nts-vc11-x86.exe/download' to: C:\Users\Administrator\AppData\Local\Temp\2\tmpFA05.tmp
+DownloadManager Information: 0 : http://sourceforge.net/projects/wincache/files/wincache-1.3.7/wincachewpi-1.3.7.10-5.5-nts-vc11-x86.exe/download responded with 301
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Sun, 03 Apr 2016 04:28:09 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+Location: https://sourceforge.net/projects/wincache/files/wincache-1.3.7/wincachewpi-1.3.7.10-5.5-nts-vc11-x86.exe/download
+Content-Length: 210
+X-Content-Type-Options: nosniff
+
+
+DownloadManager Information: 0 : https://sourceforge.net/projects/wincache/files/wincache-1.3.7/wincachewpi-1.3.7.10-5.5-nts-vc11-x86.exe/download responded with 302
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 302 Found
+Server: nginx
+Date: Sun, 03 Apr 2016 04:28:09 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+Pragma: no-cache
+Cache-Control: no-cache
+X-UA-Compatible: IE=edge,chrome=1
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: VISITOR=57009bc30b47380d2b24a075; expires="Wed, 01-Apr-2026 04:28:09 GMT"; httponly; Max-Age=315360000; Path=/
+Set-cookie: sourceforge=b2f7436a9dcb98c47269b9bc679be3a478810c63gAJ9cQEoVQxsYW5kaW5nX3BhZ2VxAlU3L3Byb2plY3RzL3BocGluc3RhbGxlcm1zaS9maWxlcy96aXAvcnVucGhwLnppcC9kb3dubG9hZHEDVQNfaWRxBFUgYzhlODU3ZjcxOGJkNGU1N2E5ZWQ4NmVlYTgwNDYxMGFxBVUDa2V5cQZVGDU3MDA5YmMzMGI0NzM4MGQyYjI0YTA3NXEHVQhfZXhwaXJlc3EIY2RhdGV0aW1lCmRhdGV0aW1lCnEJVQoH9gETAw4HAAAAhVJxClUFcHJlZnNxC31xDFUOX2FjY2Vzc2VkX3RpbWVxDUdB1cAm9nOMzlUOX2NyZWF0aW9uX3RpbWVxDkdB1cAm8MF/2HUu; expires=Tue, 19-Jan-2038 03:14:07 GMT; httponly; Path=/; secure
+Location: http://downloads.sourceforge.net/project/wincache/wincache-1.3.7/wincachewpi-1.3.7.10-5.5-nts-vc11-x86.exe?r=wpi%3A%2F%2F2.1.0.0%2FMicrosoft+Windows+NT+6.1.7601+Service+Pack+1&ts=1459657689&use_mirror=ufpr
+Content-Length: 285
+X-Content-Type-Options: nosniff
+
+
+DownloadManager Information: 0 : http://downloads.sourceforge.net/project/wincache/wincache-1.3.7/wincachewpi-1.3.7.10-5.5-nts-vc11-x86.exe?r=wpi://2.1.0.0/Microsoft+Windows+NT+6.1.7601+Service+Pack+1&ts=1459657689&use_mirror=ufpr responded with 302
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 302 Found
+Server: nginx
+Date: Sun, 03 Apr 2016 04:28:10 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: close
+content-disposition: attachment; filename="wincachewpi-1.3.7.10-5.5-nts-vc11-x86.exe"
+Set-Cookie: sf_mirror_attempt="wincache:ufpr:wincache-1.3.7/wincachewpi-1.3.7.10-5.5-nts-vc11-x86.exe"; expires=120; Path=/
+Location: http://ufpr.dl.sourceforge.net/project/wincache/wincache-1.3.7/wincachewpi-1.3.7.10-5.5-nts-vc11-x86.exe
+Content-Length: 184
+
+
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '210432'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '210432'
+DownloadManager Information: 0 : Moving downloaded file 'C:\Users\Administrator\AppData\Local\Temp\2\tmpFA05.tmp' to: C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\installers\WinCache55\3A86217B2FFFD2D8C248FB461E750C3AB7669A94\wincachewpi-1.3.7.10-5.5-nts-vc11-x86.exe
+DownloadManager Information: 0 : Downloading file 'https://github.com/Atomthin/WordPress_Windows_package/blob/master/wordpress-4.4.2-IIS.zip?raw=true' to: C:\Users\Administrator\AppData\Local\Temp\2\tmpCAB.tmp
+DownloadManager Information: 0 : https://github.com/Atomthin/WordPress_Windows_package/blob/master/wordpress-4.4.2-IIS.zip?raw=true responded with 302
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 302 Found
+Server: GitHub.com
+Date: Sun, 03 Apr 2016 04:28:14 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Status: 302 Found
+Cache-Control: no-cache
+Vary: X-PJAX
+Location: https://github.com/Atomthin/WordPress_Windows_package/raw/master/wordpress-4.4.2-IIS.zip
+X-UA-Compatible: IE=Edge,chrome=1
+Set-Cookie: logged_in=no; domain=.github.com; path=/; expires=Thu, 03 Apr 2036 04:28:14 -0000; secure; HttpOnly
+Set-Cookie: _gh_sess=eyJzZXNzaW9uX2lkIjoiZThkODc4YjBiZTUyN2M5NGIzNWE0ZmEyNDU1MWZjYjMiLCJyZWZlcnJhbF9jb2RlIjoid3BpOi8vMi4xLjAuMC9NaWNyb3NvZnQgV2luZG93cyBOVCA2LjEuNzYwMSBTZXJ2aWNlIFBhY2sgMSIsInNweV9yZXBvIjoiQXRvbXRoaW4vV29yZFByZXNzX1dpbmRvd3NfcGFja2FnZSIsInNweV9yZXBvX2F0IjoxNDU5NjU3Njk0fQ%3D%3D--078b42209be480af44f539dc3abcdfb6c8849d7c; path=/; secure; HttpOnly
+X-Request-Id: 027db6974a8c8181a39557604ec7d8c0
+X-Runtime: 0.011331
+Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src render.githubusercontent.com; connect-src 'self' uploads.github.com status.github.com api.github.com www.google-analytics.com github-cloud.s3.amazonaws.com api.braintreegateway.com client-analytics.braintreegateway.com wss://live.github.com; font-src assets-cdn.github.com; form-action 'self' github.com gist.github.com; frame-ancestors 'none'; frame-src render.githubusercontent.com; img-src 'self' data: assets-cdn.github.com identicons.github.com www.google-analytics.com collector.githubapp.com *.gravatar.com *.wp.com checkout.paypal.com *.githubusercontent.com; media-src 'none'; object-src assets-cdn.github.com; plugin-types application/x-shockwave-flash; script-src assets-cdn.github.com; style-src 'unsafe-inline' assets-cdn.github.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Public-Key-Pins: max-age=1209600; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="RRM1dGqnDFsCJXBTHky16vi1obOlCgFFn/yOhI/y+ho="; pin-sha256="k2v657xBsOVe1PQRwOsHsw3bsGT2VzIqz5K+59sNQws="; pin-sha256="K87oWBWM9UZfyddvDfoxL+8lpNyoUB2ptGtn0fv6G2Q="; pin-sha256="IQBnNBEiFuhj+8x6X8XLgh01V9Ic5/V3IRQLNFFc7v4="; pin-sha256="iie1VXtL7HzAMF+/PVPR9xzT80kQxdZeJ+zduCB3uj0="; pin-sha256="LvRiGEjRqfzurezaWuj8Wie2gyHMrW5Q06LspMnox7A="; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+Vary: Accept-Encoding
+X-Served-By: bc4c952d089501afbfc8f7ff525da31c
+X-GitHub-Request-Id: 342324AC:5E45:34BF6D1:57009BDE
+
+
+DownloadManager Information: 0 : https://github.com/Atomthin/WordPress_Windows_package/raw/master/wordpress-4.4.2-IIS.zip responded with 302
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 302 Found
+Server: GitHub.com
+Date: Sun, 03 Apr 2016 04:28:14 GMT
+Content-Type: text/html; charset=utf-8
+Status: 302 Found
+Cache-Control: no-cache
+Vary: X-PJAX, Accept-Encoding
+X-RateLimit-Limit: 100
+X-RateLimit-Remaining: 98
+X-RateLimit-Reset: 1459657739
+Access-Control-Allow-Origin: https://render.githubusercontent.com
+Location: https://raw.githubusercontent.com/Atomthin/WordPress_Windows_package/master/wordpress-4.4.2-IIS.zip
+X-UA-Compatible: IE=Edge,chrome=1
+X-Runtime: 0.376722
+Content-Security-Policy: default-src 'none'; base-uri 'self'; block-all-mixed-content; child-src render.githubusercontent.com; connect-src 'self' uploads.github.com status.github.com api.github.com www.google-analytics.com github-cloud.s3.amazonaws.com api.braintreegateway.com client-analytics.braintreegateway.com wss://live.github.com; font-src assets-cdn.github.com; form-action 'self' github.com gist.github.com; frame-ancestors 'none'; frame-src render.githubusercontent.com; img-src 'self' data: assets-cdn.github.com identicons.github.com www.google-analytics.com collector.githubapp.com *.gravatar.com *.wp.com checkout.paypal.com *.githubusercontent.com; media-src 'none'; object-src assets-cdn.github.com; plugin-types application/x-shockwave-flash; script-src assets-cdn.github.com; style-src 'unsafe-inline' assets-cdn.github.com
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+Public-Key-Pins: max-age=1209600; pin-sha256="WoiWRyIOVNa9ihaBciRSC7XHjliYS9VwUGOIud4PB18="; pin-sha256="RRM1dGqnDFsCJXBTHky16vi1obOlCgFFn/yOhI/y+ho="; pin-sha256="k2v657xBsOVe1PQRwOsHsw3bsGT2VzIqz5K+59sNQws="; pin-sha256="K87oWBWM9UZfyddvDfoxL+8lpNyoUB2ptGtn0fv6G2Q="; pin-sha256="IQBnNBEiFuhj+8x6X8XLgh01V9Ic5/V3IRQLNFFc7v4="; pin-sha256="iie1VXtL7HzAMF+/PVPR9xzT80kQxdZeJ+zduCB3uj0="; pin-sha256="LvRiGEjRqfzurezaWuj8Wie2gyHMrW5Q06LspMnox7A="; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-Served-By: a568c03544f42dddf712bab3bfd562fd
+Age: 0
+Content-Length: 165
+X-GitHub-Request-Id: 342324AC:5E45:34BF75A:57009BDE
+
+
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '7723988'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '7723988'
+DownloadManager Warning: 0 : Error getting last-modified header, error code: 12150
+DownloadManager Warning: 0 : HttpQueryInfoWithRetry for HTTP_QUERY_LAST_MODIFIED failed.
+DownloadManager Information: 0 : Moving downloaded file 'C:\Users\Administrator\AppData\Local\Temp\2\tmpCAB.tmp' to: C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\installers\WordPress\10126BE88A4F458F221C19446BC88518D5A3AFDC\wordpress-4.4.2-IIS.zip
+DownloadManager Information: 0 : Downloading file 'http://dev.mysql.com/get/Downloads/MySQL-5.1/mysql-5.1.73-winx64.msi' to: C:\Users\Administrator\AppData\Local\Temp\2\tmp3072.tmp
+DownloadManager Information: 0 : http://dev.mysql.com/get/Downloads/MySQL-5.1/mysql-5.1.73-winx64.msi responded with 302
+DownloadManager Information: 0 : Response headers:
+HTTP/1.1 302 Found
+Date: Sun, 03 Apr 2016 04:28:23 GMT
+Server: Apache/2.2
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: http://cdn.mysql.com//Downloads/MySQL-5.1/mysql-5.1.73-winx64.msi
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 20
+Content-Type: text/html; charset=UTF-8
+
+
+DownloadManager Information: 0 : Number of bytes downloaded over the internet: '104240640'
+DownloadManager Information: 0 : Number of bytes after possible decompression: '104240640'
+DownloadManager Information: 0 : Moving downloaded file 'C:\Users\Administrator\AppData\Local\Temp\2\tmp3072.tmp' to: C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\installers\MySQL\56ADCAFE28BCA9EC689059D6CB0086C67E271D20\mysql-5.1.73-winx64.msi
+DownloadManager Information: 0 : Waiting for process: 1132 - C:\Windows\sysnative\pkgmgr.exe
+DownloadManager Information: 0 : Unattended setup returned '0'
+DownloadManager Information: 0 : Product IIS: WAS Process Model done install completed
+DownloadManager Information: 0 : Increasing current install to 2
+DownloadManager Information: 0 : Product IIS: WAS Configuration API done install completed
+DownloadManager Information: 0 : Increasing current install to 3
+DownloadManager Information: 0 : Product IIS: Static Content done install completed
+DownloadManager Information: 0 : Increasing current install to 4
+DownloadManager Information: 0 : Product IIS: Default Document done install completed
+DownloadManager Information: 0 : Increasing current install to 5
+DownloadManager Information: 0 : Product IIS: Directory Browsing done install completed
+DownloadManager Information: 0 : Increasing current install to 6
+DownloadManager Information: 0 : Product IIS: HTTP Errors done install completed
+DownloadManager Information: 0 : Increasing current install to 7
+DownloadManager Information: 0 : Product IIS: HTTP Logging done install completed
+DownloadManager Information: 0 : Increasing current install to 8
+DownloadManager Information: 0 : Product IIS: Logging Tools done install completed
+DownloadManager Information: 0 : Increasing current install to 9
+DownloadManager Information: 0 : Product IIS: Request Monitor done install completed
+DownloadManager Information: 0 : Increasing current install to 10
+DownloadManager Information: 0 : Product IIS: Request Filtering done install completed
+DownloadManager Information: 0 : Increasing current install to 11
+DownloadManager Information: 0 : Product IIS: Static Content Compression done install completed
+DownloadManager Information: 0 : Increasing current install to 12
+DownloadManager Information: 0 : Product IIS: Management Console done install completed
+DownloadManager Information: 0 : Increasing current install to 13
+DownloadManager Information: 0 : Product IIS: CGI done install completed
+DownloadManager Information: 0 : Increasing current install to 14
+DownloadManager Information: 0 : Install return code for product 'RunPHP Helper' is Success
+DownloadManager Information: 0 : Product RunPHP Helper done install completed
+DownloadManager Information: 0 : Increasing current install to 15
+DownloadManager Information: 0 : Starting MSI install for msi 'C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\installers\WDeploy_Only_3_5\000D8544B5A88B2D78E46BF939420F5CEC6094C1\WebDeploy_amd64_en-US.msi', commandline: 'ADDLOCAL=ALL  ACTION=INSTALL REBOOT=ReallySuppress'
+DownloadManager Information: 0 : MSI install return value for product 'Web Deploy 3.5 - 2013' is '0'
+DownloadManager Information: 0 : Install return code for product 'Web Deploy 3.5 - 2013' is Success
+DownloadManager Information: 0 : Product Web Deploy 3.5 - 2013 done install completed
+DownloadManager Information: 0 : Increasing current install to 16
+DownloadManager Information: 0 : Web Deploy 3.5 - 2013 installation log: C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\logs\install\2016-04-03T04.27.46\WebDeploy_amd64_en-US.txt
+DownloadManager Information: 0 : Starting EXE command for product 'Web Deploy 3.5 without bundled SQL support'. Commandline is: 'C:\Windows\sysnative\cmd.exe /C echo noop'. Process Id: 2144
+DownloadManager Information: 0 : Install exit code for product 'Web Deploy 3.5 without bundled SQL support' is '0'
+DownloadManager Information: 0 : Install return code for product 'Web Deploy 3.5 without bundled SQL support' is Success
+DownloadManager Information: 0 : Product Web Deploy 3.5 without bundled SQL support done install completed
+DownloadManager Information: 0 : Increasing current install to 17
+DownloadManager Information: 0 : Starting EXE command for product 'Web Deploy 3.5 without bundled SQL support (latest)'. Commandline is: 'C:\Windows\sysnative\cmd.exe /C echo noop'. Process Id: 3036
+DownloadManager Information: 0 : Install exit code for product 'Web Deploy 3.5 without bundled SQL support (latest)' is '0'
+DownloadManager Information: 0 : Install return code for product 'Web Deploy 3.5 without bundled SQL support (latest)' is Success
+DownloadManager Information: 0 : Product Web Deploy 3.5 without bundled SQL support (latest) done install completed
+DownloadManager Information: 0 : Increasing current install to 18
+DownloadManager Information: 0 : Starting EXE command for product 'URL Rewrite 2.0'. Commandline is: 'C:\Windows\sysnative\net.exe stop was /y'. Process Id: 2124
+DownloadManager Information: 0 : Install exit code for product 'URL Rewrite 2.0' is '0'
+DownloadManager Information: 0 : Ignoring exit code '0' for product 'URL Rewrite 2.0'
+DownloadManager Information: 0 : Starting EXE command for product 'URL Rewrite 2.0'. Commandline is: 'C:\Windows\sysnative\net.exe stop wmsvc'. Process Id: 2660
+DownloadManager Information: 0 : Install exit code for product 'URL Rewrite 2.0' is '2'
+DownloadManager Information: 0 : Ignoring exit code '2' for product 'URL Rewrite 2.0'
+DownloadManager Information: 0 : Starting EXE command for product 'URL Rewrite 2.0'. Commandline is: 'C:\Windows\sysnative\cmd.exe /C reg.exe save "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v3.5" "C:\Users\ADMINI~1\AppData\Local\Temp\2\__rewrite_netfx35_sp_level.txt" /y'. Process Id: 1528
+DownloadManager Information: 0 : Install exit code for product 'URL Rewrite 2.0' is '0'
+DownloadManager Information: 0 : Ignoring exit code '0' for product 'URL Rewrite 2.0'
+DownloadManager Information: 0 : Starting EXE command for product 'URL Rewrite 2.0'. Commandline is: 'C:\Windows\sysnative\cmd.exe /C reg.exe add "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v3.5" /v SP /t REG_DWORD /d 0 /f'. Process Id: 3036
+DownloadManager Information: 0 : Install exit code for product 'URL Rewrite 2.0' is '0'
+DownloadManager Information: 0 : Ignoring exit code '0' for product 'URL Rewrite 2.0'
+DownloadManager Information: 0 : Starting MSI install for msi 'C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\installers\UrlRewrite2\6A98B994ADCC2E8D21507BF2B8BAFFB402C17395\rewrite_amd64.msi', commandline: 'ACTION=INSTALL REBOOT=ReallySuppress'
+DownloadManager Information: 0 : MSI install return value for product 'URL Rewrite 2.0' is '0'
+DownloadManager Information: 0 : Starting EXE command for product 'URL Rewrite 2.0'. Commandline is: 'C:\Windows\sysnative\cmd.exe /C reg.exe restore "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\NET Framework Setup\NDP\v3.5" "C:\Users\ADMINI~1\AppData\Local\Temp\2\__rewrite_netfx35_sp_level.txt" & del "C:\Users\ADMINI~1\AppData\Local\Temp\2\__rewrite_netfx35_sp_level.txt"'. Process Id: 3036
+DownloadManager Information: 0 : Install exit code for product 'URL Rewrite 2.0' is '0'
+DownloadManager Information: 0 : Ignoring exit code '0' for product 'URL Rewrite 2.0'
+DownloadManager Information: 0 : Starting EXE command for product 'URL Rewrite 2.0'. Commandline is: 'C:\Windows\sysnative\net.exe start w3svc'. Process Id: 2740
+DownloadManager Information: 0 : Install exit code for product 'URL Rewrite 2.0' is '0'
+DownloadManager Information: 0 : Ignoring exit code '0' for product 'URL Rewrite 2.0'
+DownloadManager Information: 0 : Starting EXE command for product 'URL Rewrite 2.0'. Commandline is: 'C:\Windows\sysnative\net.exe start wmsvc'. Process Id: 2144
+DownloadManager Information: 0 : Install exit code for product 'URL Rewrite 2.0' is '2'
+DownloadManager Information: 0 : Ignoring exit code '2' for product 'URL Rewrite 2.0'
+DownloadManager Information: 0 : Install return code for product 'URL Rewrite 2.0' is Success
+DownloadManager Information: 0 : Product URL Rewrite 2.0 done install completed
+DownloadManager Information: 0 : Increasing current install to 19
+DownloadManager Information: 0 : URL Rewrite 2.0 installation log: C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\logs\install\2016-04-03T04.27.46\rewrite_amd64.txt
+DownloadManager Information: 0 : Starting EXE command for product 'MySQL Connector/Net'. Commandline is: 'C:\Windows\sysnative\msiexec.exe /x {5FD88490-011C-4DF1-B886-F298D955171B} /qn'. Process Id: 3052
+DownloadManager Information: 0 : Install exit code for product 'MySQL Connector/Net' is '1605'
+DownloadManager Information: 0 : Ignoring exit code '1605' for product 'MySQL Connector/Net'
+DownloadManager Information: 0 : Starting EXE command for product 'MySQL Connector/Net'. Commandline is: 'C:\Windows\sysnative\msiexec.exe /x {2DDC7E93-29AB-4260-A9DB-697F7FA88157} /qn'. Process Id: 2956
+DownloadManager Information: 0 : Install exit code for product 'MySQL Connector/Net' is '1605'
+DownloadManager Information: 0 : Ignoring exit code '1605' for product 'MySQL Connector/Net'
+DownloadManager Information: 0 : Starting MSI install for msi 'C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\installers\MySQLConnector\E60C34146B08E8044B531E92EBC7431F75D6E1CF\mysql-connector-net-6.9.7.msi', commandline: 'ACTION=INSTALL REBOOT=ReallySuppress'
+DownloadManager Information: 0 : MSI install return value for product 'MySQL Connector/Net' is '0'
+DownloadManager Information: 0 : Install return code for product 'MySQL Connector/Net' is Success
+DownloadManager Information: 0 : MySQL Connector/Net installation log: C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\logs\install\2016-04-03T04.27.46\mysql-connector-net-6.9.7.txt
+DownloadManager Information: 0 : Product MySQL Connector/Net done install completed
+DownloadManager Information: 0 : Increasing current install to 20
+DownloadManager Information: 0 : Starting EXE command for product 'Microsoft Visual C++ 2012 Redistributable Package'. Commandline is: 'C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\installers\VC12Redist\7D6F654C16F9CE534BB2C4B1669D7DC039C433C9\vcredist_x86.exe /q /norestart'. Process Id: 2716
+DownloadManager Information: 0 : Install exit code for product 'Microsoft Visual C++ 2012 Redistributable Package' is '0'
+DownloadManager Information: 0 : Install return code for product 'Microsoft Visual C++ 2012 Redistributable Package' is Success
+DownloadManager Information: 0 : Product Microsoft Visual C++ 2012 Redistributable Package done install completed
+DownloadManager Information: 0 : Increasing current install to 21
+DownloadManager Information: 0 : Starting EXE command for product 'PHP 5.5.30'. Commandline is: 'C:\Windows\sysnative\setx.exe Path "C:\Program Files (x86)\PHP\v5.5;C:\Program Files\Internet Explorer;;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Amazon\cfn-bootstrap\;" -M'. Process Id: 1436
+DownloadManager Information: 0 : Install exit code for product 'PHP 5.5.30' is '0'
+DownloadManager Information: 0 : Starting EXE command for product 'PHP 5.5.30'. Commandline is: 'C:\Windows\sysnative\cmd.exe  /C copy "C:\Program Files\runphp\runphp.cmd" "C:\Program Files (x86)\PHP\v5.5\runphp.cmd"'. Process Id: 1136
+DownloadManager Information: 0 : Install exit code for product 'PHP 5.5.30' is '0'
+DownloadManager Information: 0 : Install return code for product 'PHP 5.5.30' is Success
+DownloadManager Information: 0 : Product PHP 5.5.30 done install completed
+DownloadManager Information: 0 : Increasing current install to 22
+DownloadManager Information: 0 : Starting EXE command for product 'Windows Cache Extension 1.3 for PHP 5.5'. Commandline is: 'C:\Windows\sysnative\iisreset.exe /STOP'. Process Id: 884
+DownloadManager Information: 0 : Install exit code for product 'Windows Cache Extension 1.3 for PHP 5.5' is '0'
+DownloadManager Information: 0 : Ignoring exit code '0' for product 'Windows Cache Extension 1.3 for PHP 5.5'
+DownloadManager Information: 0 : Starting EXE command for product 'Windows Cache Extension 1.3 for PHP 5.5'. Commandline is: 'C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\installers\WinCache55\3A86217B2FFFD2D8C248FB461E750C3AB7669A94\wincachewpi-1.3.7.10-5.5-nts-vc11-x86.exe /q:a /t:C:\Users\ADMINI~1\AppData\Local\Temp\2'. Process Id: 2496
+DownloadManager Information: 0 : Install exit code for product 'Windows Cache Extension 1.3 for PHP 5.5' is '0'
+DownloadManager Information: 0 : Starting EXE command for product 'Windows Cache Extension 1.3 for PHP 5.5'. Commandline is: 'C:\Windows\sysnative\cscript.exe "C:\Users\ADMINI~1\AppData\Local\Temp\2\wincachewpipre.vbs" PHPPATH "C:\Program Files (x86)\PHP\v5.5\"'. Process Id: 2600
+DownloadManager Information: 0 : Install exit code for product 'Windows Cache Extension 1.3 for PHP 5.5' is '0'
+DownloadManager Information: 0 : Starting MSI install for msi 'C:\Users\ADMINI~1\AppData\Local\Temp\2\WinCache55wpi.msi', commandline: 'PHPPATH="C:\Program Files (x86)\PHP\v5.5\" IACCEPTWINDOWSCACHEFORPHPLICENSETERMS=Yes ACTION=INSTALL REBOOT=ReallySuppress'
+DownloadManager Information: 0 : MSI install return value for product 'Windows Cache Extension 1.3 for PHP 5.5' is '0'
+DownloadManager Information: 0 : Starting EXE command for product 'Windows Cache Extension 1.3 for PHP 5.5'. Commandline is: 'C:\Windows\sysnative\cscript.exe "C:\Users\ADMINI~1\AppData\Local\Temp\2\wincachewpipost.vbs" PHPINIPATH "C:\Program Files (x86)\PHP\v5.5\php.ini"'. Process Id: 1800
+DownloadManager Information: 0 : Install exit code for product 'Windows Cache Extension 1.3 for PHP 5.5' is '0'
+DownloadManager Information: 0 : Starting EXE command for product 'Windows Cache Extension 1.3 for PHP 5.5'. Commandline is: 'C:\Windows\sysnative\iisreset.exe /START'. Process Id: 1492
+DownloadManager Information: 0 : Install exit code for product 'Windows Cache Extension 1.3 for PHP 5.5' is '0'
+DownloadManager Information: 0 : Ignoring exit code '0' for product 'Windows Cache Extension 1.3 for PHP 5.5'
+DownloadManager Information: 0 : Install return code for product 'Windows Cache Extension 1.3 for PHP 5.5' is Success
+DownloadManager Information: 0 : Product Windows Cache Extension 1.3 for PHP 5.5 done install completed
+DownloadManager Information: 0 : Increasing current install to 23
+DownloadManager Information: 0 : Windows Cache Extension 1.3 for PHP 5.5 installation log: C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\logs\install\2016-04-03T04.27.46\wincachewpi-1.3.7.10-5.5-nts-vc11-x86.txt
+DownloadManager Information: 0 : Starting MSI install for msi 'C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\installers\MySQL\56ADCAFE28BCA9EC689059D6CB0086C67E271D20\mysql-5.1.73-winx64.msi', commandline: 'ACTION=INSTALL REBOOT=ReallySuppress'
+DownloadManager Information: 0 : MSI install return value for product 'MySQL Windows 5.1' is '0'
+DownloadManager Information: 0 : Starting EXE command for product 'MySQL Windows 5.1'. Commandline is: 'C:\Program Files\MySQL\MySQL Server 5.1\bin\MySQLInstanceConfig.exe -q -i "-nMySQL5.1" ServerType=DEVELOPMENT DatabaseType=MIXED ConnectionUsage=DSS Port=3306 ServiceName=MySQL RootPassword="****" StrictMode=yes AddBinToPath=yes Charset=UTF8"'. Process Id: 2792
+DownloadManager Information: 0 : Install exit code for product 'MySQL Windows 5.1' is '0'
+DownloadManager Information: 0 : Install return code for product 'MySQL Windows 5.1' is Success
+DownloadManager Information: 0 : Product MySQL Windows 5.1 done install completed
+DownloadManager Information: 0 : Increasing current install to 24
+DownloadManager Information: 0 : MySQL Windows 5.1 installation log: C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\logs\install\2016-04-03T04.27.46\mysql-5.1.73-winx64.txt
+DownloadManager Information: 0 : Using chosen site 'Default Web Site'
+DownloadManager Information: 0 : The specified destination folder for application wordpress is not empty. If you proceed with installation, existing files in that folder may be overwritten. Do you want to continue?
+DownloadManager Information: 0 : User chose of overwrite
+DownloadManager Information: 0 : Testing database connection string
+DownloadManager Information: 0 : Using connection string: 'server=localhost;database=wordpress272;uid=root'
+DownloadManager Information: 0 : Setting current install to 1
+DownloadManager Information: 0 : Issuing skip directive: objectName=dbFullSql
+DownloadManager Information: 0 : Issuing skip directive: objectName=DBSqlite
+DownloadManager Information: 0 : WordPress installation log: C:\Users\Administrator\AppData\Local\Microsoft\Web Platform Installer\logs\install\2016-04-03T04.27.46\WordPress.txt
+DownloadManager Information: 0 : Product WordPress done install completed
+DownloadManager Information: 0 : Increasing current install to 2
+DownloadManager Information: 0 : Product: WASProcessModel, Install Status: InstallCompleted-Success, Install Time: 00:02:34.7208000
+DownloadManager Information: 0 : Product: WASConfigurationAPI, Install Status: InstallCompleted-Success, Install Time: 00:02:34.7208000
+DownloadManager Information: 0 : Product: StaticContent, Install Status: InstallCompleted-Success, Install Time: 00:02:34.7208000
+DownloadManager Information: 0 : Product: DefaultDocument, Install Status: InstallCompleted-Success, Install Time: 00:02:34.7208000
+DownloadManager Information: 0 : Product: DirectoryBrowse, Install Status: InstallCompleted-Success, Install Time: 00:02:34.7208000
+DownloadManager Information: 0 : Product: HTTPErrors, Install Status: InstallCompleted-Success, Install Time: 00:02:34.7208000
+DownloadManager Information: 0 : Product: HTTPLogging, Install Status: InstallCompleted-Success, Install Time: 00:02:34.7208000
+DownloadManager Information: 0 : Product: LoggingTools, Install Status: InstallCompleted-Success, Install Time: 00:02:34.7208000
+DownloadManager Information: 0 : Product: RequestMonitor, Install Status: InstallCompleted-Success, Install Time: 00:02:34.7208000
+DownloadManager Information: 0 : Product: RequestFiltering, Install Status: InstallCompleted-Success, Install Time: 00:02:34.7208000
+DownloadManager Information: 0 : Product: StaticContentCompression, Install Status: InstallCompleted-Success, Install Time: 00:02:34.7208000
+DownloadManager Information: 0 : Product: IISManagementConsole, Install Status: InstallCompleted-Success, Install Time: 00:02:34.7208000
+DownloadManager Information: 0 : Product: CGI, Install Status: InstallCompleted-Success, Install Time: 00:02:34.7208000
+DownloadManager Information: 0 : Product: runphp, Install Status: InstallCompleted-Success, Install Time: 00:00:00.0468000
+DownloadManager Information: 0 : Product: WDeploy_Only_3_5, Install Status: InstallCompleted-Success, Install Time: 00:00:09.4380000
+DownloadManager Information: 0 : Product: WDeployNoSMO_3_5, Install Status: InstallCompleted-Success, Install Time: 00:00:00.1404000
+DownloadManager Information: 0 : Product: WDeployNoSMO, Install Status: InstallCompleted-Success, Install Time: 00:00:00.0156000
+DownloadManager Information: 0 : Product: UrlRewrite2, Install Status: InstallCompleted-Success, Install Time: 00:00:08.5800000
+DownloadManager Information: 0 : Product: MySQLConnector, Install Status: InstallCompleted-Success, Install Time: 00:00:19.0008000
+DownloadManager Information: 0 : Product: VC12Redist, Install Status: InstallCompleted-Success, Install Time: 00:00:05.0076000
+DownloadManager Information: 0 : Product: PHP55, Install Status: InstallCompleted-Success, Install Time: 00:00:05.3820000
+DownloadManager Information: 0 : Product: WinCache55, Install Status: InstallCompleted-Success, Install Time: 00:00:04.9140000
+DownloadManager Information: 0 : Product: WordPress, Install Status: InstallCompleted-Success, Install Time: 00:00:06.3336000
+DownloadManager Information: 0 : Product: MySQL, Install Status: InstallCompleted-Success, Install Time: 00:00:28.0550000
+DownloadManager Information: 0 : Clearing cart
