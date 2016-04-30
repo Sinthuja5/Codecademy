@@ -1,0 +1,25 @@
+var user=prompt ("You are on the beach and you see the moon. Do you adore it, look away, or search for someone?").toLowerCase();
+
+switch(user) {
+    case 'adore it':
+  var adore=  prompt("why do you adore it?");
+  if (user === "adore it" && adore=== "because") {console.log("nice to know"); }
+  else {console.log("interesting"); }
+    break;
+    
+    case 'look away':
+        var look = prompt ("why do you look away");
+        if (user === "look away" || look=== "because") {console.log("waka waka beam beam"); }
+        else {console.log("oh ok"); }
+        console.log ("memories must be troubling you");
+        break;
+        
+        case 'search for someone':
+            console.log ("looks like you have had someone special be with you at this place");
+            break;
+            
+
+  
+  default:
+ console.log( "your missing out on the fun");
+}
